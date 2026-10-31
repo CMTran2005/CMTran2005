@@ -49,6 +49,16 @@ Mình là một Software Developer yêu thích việc tìm hiểu vấn đề, k
 
 A focused selection of projects spanning different problem spaces. Each one represents an opportunity to apply engineering thinking and learn from real implementation decisions.
 
+<a href="https://github.com/CMTran2005/Quizenta"><img src="assets/quizenta.png" width="75%" alt="Quizenta project visual identity" /></a>
+
+### Quizenta — Smart Examination & Question Bank
+
+An education platform for question banks, exam authoring and online assessments, exploring AI-assisted OCR, mathematical notation and collaborative workflows.
+
+`Next.js` · `Firebase` · `Gemini` · `MathLive` · `KaTeX` · `Zustand`
+
+[Explore repository](https://github.com/CMTran2005/Quizenta) · [Live application](https://quizenta.vercel.app/)
+
 <a href="https://github.com/CMTran2005/aria-travel"><img src="assets/aria.png" width="75%" alt="ARIA project visual identity" /></a>
 
 ### ARIA — Adaptive Route Intelligence Assistant
@@ -69,22 +79,13 @@ A Flutter mobile application for tracking transactions, recurring expenses and b
 
 [Explore repository](https://github.com/CMTran2005/cadence)
 
-<a href="https://github.com/CMTran2005/Quizenta"><img src="assets/quizenta.png" width="75%" alt="Quizenta project visual identity" /></a>
-
-### Quizenta — Smart Examination & Question Bank
-
-An education platform for question banks, exam authoring and online assessments, exploring AI-assisted OCR, mathematical notation and collaborative workflows.
-
-`Next.js` · `Firebase` · `Gemini` · `MathLive` · `KaTeX` · `Zustand`
-
-[Explore repository](https://github.com/CMTran2005/Quizenta) · [Live application](https://quizenta.vercel.app/)
-
 <details>
 <summary>Tiếng Việt — Tổng quan dự án</summary>
 
+
+- **Quizenta:** Nền tảng quản lý ngân hàng câu hỏi, biên soạn đề và thi trực tuyến, có hỗ trợ OCR bằng AI và công thức toán.
 - **ARIA:** Lập kế hoạch du lịch với lịch trình linh hoạt, tối ưu tuyến đường và dữ liệu không gian.
 - **Cadence:** Ứng dụng quản lý tài chính cá nhân trên di động, theo dõi giao dịch, ngân sách và nhận dạng hóa đơn.
-- **Quizenta:** Nền tảng quản lý ngân hàng câu hỏi, biên soạn đề và thi trực tuyến, có hỗ trợ OCR bằng AI và công thức toán.
 
 </details>
 

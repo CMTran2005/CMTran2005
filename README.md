@@ -148,20 +148,41 @@ Mình tiếp tục củng cố nền tảng kỹ thuật phần mềm, tìm hi�
 
 ---
 
-## 07 / Contribution Streak
+## 07 / GitHub Insights
+
+A concise snapshot of my public GitHub activity. Numbers provide context, not a complete measure of engineering ability.
 
 <div align="center">
 
-A snapshot of consistency and learning through code. Contributions are only one part of the engineering journey.
+[![CMTran2005 GitHub Stats](https://github-stats-extended.vercel.app/api?username=CMTran2005&show_icons=true&hide_border=false&bg_color=14162B&title_color=CA48C8&text_color=E5E3FF&icon_color=7770DF&border_color=302A73&ring_color=5348CA&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CMTran2005&background=14162B&border=302A73&stroke=302A73&ring=5348CA&fire=CA48C8&currStreakNum=FFFFFF&sideNums=E5E3FF&currStreakLabel=CA48C8&sideLabels=AFA9E7&dates=AFA9E7&hide_border=false&border_radius=8&disable_animations=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<br />
+
+**Most Used Languages**
+
+[![CMTran2005 Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=CMTran2005&layout=compact&langs_count=8&card_width=450&hide_border=false&bg_color=14162B&title_color=CA48C8&text_color=E5E3FF&border_color=302A73)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
-<details>
-<summary>Tiếng Việt — Hoạt động đóng góp</summary>
+<!-- OPTIONAL: WakaTime coding activity. To enable:
+1. Sign up for WakaTime and connect an editor plugin.
+2. Make 'Display code time publicly' and 'Display languages, editors, os, categories publicly' public in WakaTime settings.
+3. Replace YOUR_WAKATIME_USERNAME with your actual WakaTime username.
+4. Remove this HTML comment wrapper to show the card.
 
-Thống kê chuỗi ngày đóng góp trên GitHub, thể hiện một phần quá trình học tập và xây dựng phần mềm. Các con số không phản ánh toàn bộ chất lượng công việc.
+<div align="center">
+
+**Development Time — Last 7 Days**
+
+[![WakaTime Coding Activity](https://github-stats-extended.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&langs_count=6&hide_border=false&bg_color=14162B&title_color=CA48C8&text_color=E5E3FF&border_color=302A73)](https://wakatime.com/)
+
+</div>
+-->
+
+<details>
+<summary>Tiếng Việt — Thống kê GitHub</summary>
+
+Tổng quan hoạt động công khai trên GitHub. Các chỉ số mang tính tham khảo, không phản ánh toàn bộ năng lực hay chất lượng phần mềm.
 
 </details>
 

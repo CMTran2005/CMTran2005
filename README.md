@@ -19,7 +19,7 @@ I am a software developer interested in understanding problems, exploring differ
 > **My approach:** Learn deeply. Build thoughtfully. Improve continuously.
 
 <details>
-<summary>Tiếng Việt</summary>
+<summary>Đọc bằng tiếng Việt</summary>
 
 Mình là một Software Developer yêu thích việc tìm hiểu vấn đề, khám phá nhiều lĩnh vực công nghệ và xây dựng phần mềm có giá trị thực tiễn. Thay vì giới hạn bản thân trong một framework hay nền tảng, mình tập trung vào nền tảng kỹ thuật và cách các thành phần trong hệ thống phối hợp với nhau.
 
@@ -49,7 +49,7 @@ Mình là một Software Developer yêu thích việc tìm hiểu vấn đề, k
 
 A focused selection of projects spanning different problem spaces. Each one represents an opportunity to apply engineering thinking and learn from real implementation decisions.
 
-<a href="https://github.com/CMTran2005/aria-travel"><img src="assets/aria.svg" width="100%" alt="ARIA project visual identity" /></a>
+<a href="https://github.com/CMTran2005/aria-travel"><img src="assets/aria.png" width="75%" alt="ARIA project visual identity" /></a>
 
 ### ARIA — Adaptive Route Intelligence Assistant
 
@@ -59,7 +59,7 @@ Travel planning with adaptive itineraries, route optimization and geospatial dat
 
 [Explore repository](https://github.com/CMTran2005/aria-travel)
 
-<a href="https://github.com/CMTran2005/cadence"><img src="assets/cadence.svg" width="100%" alt="Cadence project visual identity" /></a>
+<a href="https://github.com/CMTran2005/cadence"><img src="assets/cadence.png" width="25%" alt="Cadence project visual identity" /></a>
 
 ### Cadence — Personal Finance Management
 
@@ -69,7 +69,7 @@ A Flutter mobile application for tracking transactions, recurring expenses and b
 
 [Explore repository](https://github.com/CMTran2005/cadence)
 
-<a href="https://github.com/CMTran2005/Quizenta"><img src="assets/quizenta.svg" width="100%" alt="Quizenta project visual identity" /></a>
+<a href="https://github.com/CMTran2005/Quizenta"><img src="assets/quizenta.png" width="75%" alt="Quizenta project visual identity" /></a>
 
 ### Quizenta — Smart Examination & Question Bank
 
@@ -145,14 +145,28 @@ Mình tiếp tục củng cố nền tảng kỹ thuật phần mềm, tìm hi�
 
 ---
 
-## 07 / GitHub Activity
+## 07 / Connect & Collaborate
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=CMTran2005&amp;show_icons=false&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7770DF&amp;text_color=C9D1D9" alt="GitHub profile statistics" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMTran2005&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=CA48C8&amp;text_color=C9D1D9&amp;langs_count=6" alt="GitHub language statistics" />
+### Good software starts with meaningful conversations.
+
+I enjoy exchanging ideas, learning from different perspectives, and connecting with people who care about building thoughtful software.
+
+**[Explore my GitHub](https://github.com/CMTran2005)** &nbsp;·&nbsp; **[View my repositories](https://github.com/CMTran2005?tab=repositories)**
+
+<sub>Curious about a project or an idea? You can reach me through my GitHub profile.</sub>
 
 </div>
+
+<details>
+<summary>Tiếng Việt</summary>
+
+Mình luôn sẵn sàng trao đổi ý tưởng, học hỏi từ những góc nhìn mới và kết nối với những người yêu thích việc xây dựng phần mềm có giá trị.
+
+**[GitHub](https://github.com/CMTran2005)** · **[Các dự án](https://github.com/CMTran2005?tab=repositories)**
+
+</details>
 
 ---
 

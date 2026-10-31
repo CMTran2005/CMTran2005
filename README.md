@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/hero.png" width="100%" alt="CMTran — Building ideas into software, indigo and violet banner" />
 
@@ -19,7 +19,7 @@ I am a software developer interested in understanding problems, exploring differ
 > **My approach:** Learn deeply. Build thoughtfully. Improve continuously.
 
 <details>
-<summary>Đọc bằng tiếng Việt</summary>
+<summary>Tiếng Việt</summary>
 
 Mình là một Software Developer yêu thích việc tìm hiểu vấn đề, khám phá nhiều lĩnh vực công nghệ và xây dựng phần mềm có giá trị thực tiễn. Thay vì giới hạn bản thân trong một framework hay nền tảng, mình tập trung vào nền tảng kỹ thuật và cách các thành phần trong hệ thống phối hợp với nhau.
 

@@ -21,7 +21,7 @@ I am a software developer interested in understanding problems, exploring differ
 > **My approach:** Learn deeply. Build thoughtfully. Improve continuously.
 
 <details>
-<summary>Đọc bằng tiếng Việt</summary>
+<summary>Tiếng Việt</summary>
 
 Mình là một Software Developer yêu thích việc tìm hiểu vấn đề, khám phá nhiều lĩnh vực công nghệ và xây dựng phần mềm có giá trị thực tiễn. Thay vì giới hạn bản thân trong một framework hay nền tảng, mình tập trung vào nền tảng kỹ thuật và cách các thành phần trong hệ thống phối hợp với nhau.
 
@@ -55,7 +55,9 @@ A focused selection of projects spanning different problem spaces. Each one repr
 
 ### Quizenta — Smart Examination & Question Bank
 
-An education platform for question banks, exam authoring and online assessments, exploring AI-assisted OCR, mathematical notation and collaborative workflows.
+**Problem & solution.** Creating and managing assessments becomes more demanding when questions include mathematical expressions and content that must be digitized. Quizenta brings question banks, exam authoring and online assessments into one education-focused workflow.
+
+**Engineering highlights.** Explores Gemini-assisted OCR, mathematical input and rendering with MathLive and KaTeX, and application state management with Zustand.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=24213C&color=000000&logoColor=white&logo=nextdotjs) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&labelColor=24213C&color=DD2C00&logoColor=white&logo=firebase) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&labelColor=24213C&color=8E75B2&logoColor=white&logo=googlegemini) ![MathLive](https://img.shields.io/badge/MathLive-6554C0?style=flat&labelColor=6554C0&color=6554C0&logoColor=white) ![KaTeX](https://img.shields.io/badge/KaTeX-339933?style=flat&labelColor=339933&color=339933&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&labelColor=443E38&color=443E38&logoColor=white)
 
@@ -65,7 +67,9 @@ An education platform for question banks, exam authoring and online assessments,
 
 ### ARIA — Adaptive Route Intelligence Assistant
 
-Travel planning with adaptive itineraries, route optimization and geospatial data. Explores multi-objective optimization and coordination between frontend and backend services.
+**Problem & solution.** Planning a trip involves balancing destinations, routes and changing constraints. ARIA explores adaptive itinerary planning supported by route optimization and geospatial data.
+
+**Engineering highlights.** Applies OR-Tools to optimization problems, uses PostGIS-backed spatial data, and connects a Next.js interface with FastAPI services.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&labelColor=24213C&color=3776AB&logoColor=white&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&labelColor=24213C&color=009688&logoColor=white&logo=fastapi) ![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=flat&labelColor=24213C&color=4285F4&logoColor=white&logo=google) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=24213C&color=000000&logoColor=white&logo=nextdotjs) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&labelColor=24213C&color=3ECF8E&logoColor=white&logo=supabase) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&labelColor=24213C&color=336791&logoColor=white&logo=postgresql)
 
@@ -75,7 +79,9 @@ Travel planning with adaptive itineraries, route optimization and geospatial dat
 
 ### Cadence — Personal Finance Management
 
-A Flutter mobile application for tracking transactions, recurring expenses and budgets, with spending insights and on-device receipt OCR.
+**Problem & solution.** Personal spending is harder to understand when transactions, recurring expenses and budgets are tracked separately. Cadence brings these everyday finance workflows into a mobile application.
+
+**Engineering highlights.** Combines Flutter and Dart with local SQLite storage, spending insights and on-device receipt text recognition using Google ML Kit.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&labelColor=24213C&color=02569B&logoColor=white&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&labelColor=24213C&color=0175C2&logoColor=white&logo=dart) ![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-4285F4?style=flat&labelColor=24213C&color=4285F4&logoColor=white&logo=google) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&labelColor=24213C&color=003B57&logoColor=white&logo=sqlite)
 
@@ -85,9 +91,9 @@ A Flutter mobile application for tracking transactions, recurring expenses and b
 <summary>Tiếng Việt — Tổng quan dự án</summary>
 
 
-- **Quizenta:** Nền tảng quản lý ngân hàng câu hỏi, biên soạn đề và thi trực tuyến, có hỗ trợ OCR bằng AI và công thức toán.
-- **ARIA:** Lập kế hoạch du lịch với lịch trình linh hoạt, tối ưu tuyến đường và dữ liệu không gian.
-- **Cadence:** Ứng dụng quản lý tài chính cá nhân trên di động, theo dõi giao dịch, ngân sách và nhận dạng hóa đơn.
+- **Quizenta:** Tập trung giải quyết bài toán tạo và quản lý đề thi có nội dung toán học. Điểm kỹ thuật nổi bật là OCR hỗ trợ bởi Gemini, nhập/hiển thị công thức với MathLive và KaTeX, cùng quản lý trạng thái ứng dụng bằng Zustand.
+- **ARIA:** Khám phá bài toán xây dựng lịch trình du lịch linh hoạt và tối ưu tuyến đường. Kết hợp OR-Tools, dữ liệu không gian PostGIS và giao tiếp giữa Next.js với FastAPI.
+- **Cadence:** Gom việc theo dõi giao dịch, chi phí định kỳ và ngân sách vào một ứng dụng di động. Kết hợp Flutter, lưu trữ SQLite và nhận dạng văn bản hóa đơn trên thiết bị bằng Google ML Kit.
 
 </details>
 
@@ -203,7 +209,7 @@ I enjoy exchanging ideas, learning from different perspectives, and connecting w
 </div>
 
 <details>
-<summary>Đọc bằng tiếng Việt</summary>
+<summary>Tiếng Việt</summary>
 
 Mình luôn sẵn sàng trao đổi ý tưởng, học hỏi từ những góc nhìn mới và kết nối với những người yêu thích việc xây dựng phần mềm có giá trị.
 

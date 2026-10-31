@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="CMTran — Building ideas into software, indigo and violet banner" />
+<img src="assets/hero.png" width="100%" alt="CMTran — Building ideas into software, indigo and violet banner" />
 
 ### Software Developer
 

@@ -8,6 +8,8 @@
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/CMTran2005) &nbsp; [![Repositories](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white)](https://github.com/CMTran2005?tab=repositories)
 
+![Profile Views](https://komarev.com/ghpvc/?username=CMTran2005&label=PROFILE+VIEWS&color=5348CA&style=flat)
+
 </div>
 
 ---
@@ -55,7 +57,7 @@ A focused selection of projects spanning different problem spaces. Each one repr
 
 An education platform for question banks, exam authoring and online assessments, exploring AI-assisted OCR, mathematical notation and collaborative workflows.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=000000&color=000000&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&labelColor=DD2C00&color=DD2C00&logoColor=222222) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&labelColor=8E75B2&color=8E75B2&logoColor=white) ![MathLive](https://img.shields.io/badge/MathLive-6554C0?style=flat&labelColor=6554C0&color=6554C0&logoColor=white) ![KaTeX](https://img.shields.io/badge/KaTeX-339933?style=flat&labelColor=339933&color=339933&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&labelColor=443E38&color=443E38&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=24213C&color=000000&logoColor=white&logo=nextdotjs) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&labelColor=24213C&color=DD2C00&logoColor=white&logo=firebase) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&labelColor=24213C&color=8E75B2&logoColor=white&logo=googlegemini) ![MathLive](https://img.shields.io/badge/MathLive-6554C0?style=flat&labelColor=6554C0&color=6554C0&logoColor=white) ![KaTeX](https://img.shields.io/badge/KaTeX-339933?style=flat&labelColor=339933&color=339933&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&labelColor=443E38&color=443E38&logoColor=white)
 
 [![View Repository](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/CMTran2005/Quizenta) · [![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=vercel&logoColor=white)](https://quizenta.vercel.app/)
 
@@ -65,7 +67,7 @@ An education platform for question banks, exam authoring and online assessments,
 
 Travel planning with adaptive itineraries, route optimization and geospatial data. Explores multi-objective optimization and coordination between frontend and backend services.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&labelColor=3776AB&color=3776AB&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&labelColor=009688&color=009688&logoColor=white) ![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=flat&labelColor=4285F4&color=4285F4&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=000000&color=000000&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&labelColor=3ECF8E&color=3ECF8E&logoColor=222222) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&labelColor=336791&color=336791&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&labelColor=24213C&color=3776AB&logoColor=white&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&labelColor=24213C&color=009688&logoColor=white&logo=fastapi) ![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=flat&labelColor=24213C&color=4285F4&logoColor=white&logo=google) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=24213C&color=000000&logoColor=white&logo=nextdotjs) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&labelColor=24213C&color=3ECF8E&logoColor=white&logo=supabase) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&labelColor=24213C&color=336791&logoColor=white&logo=postgresql)
 
 [![View Repository](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/CMTran2005/aria-travel)
 
@@ -75,7 +77,7 @@ Travel planning with adaptive itineraries, route optimization and geospatial dat
 
 A Flutter mobile application for tracking transactions, recurring expenses and budgets, with spending insights and on-device receipt OCR.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&labelColor=02569B&color=02569B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&labelColor=0175C2&color=0175C2&logoColor=white) ![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-4285F4?style=flat&labelColor=4285F4&color=4285F4&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&labelColor=003B57&color=003B57&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&labelColor=24213C&color=02569B&logoColor=white&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&labelColor=24213C&color=0175C2&logoColor=white&logo=dart) ![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-4285F4?style=flat&labelColor=24213C&color=4285F4&logoColor=white&logo=google) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&labelColor=24213C&color=003B57&logoColor=white&logo=sqlite)
 
 [![View Repository](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/CMTran2005/cadence)
 
@@ -97,10 +99,10 @@ Technologies used or explored through projects; representative rather than exhau
 
 | CATEGORY | TOOLKIT |
 |:---|:---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&color=F7DF1E&logoColor=222222) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&labelColor=3178C6&color=3178C6&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&labelColor=3776AB&color=3776AB&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&labelColor=ED8B00&color=ED8B00&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&labelColor=0175C2&color=0175C2&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&labelColor=E34F26&color=E34F26&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&labelColor=1572B6&color=1572B6&logoColor=white) |
-| **Applications** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&labelColor=61DAFB&color=61DAFB&logoColor=222222) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=000000&color=000000&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&labelColor=646CFF&color=646CFF&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&labelColor=02569B&color=02569B&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&labelColor=06B6D4&color=06B6D4&logoColor=222222) |
-| **Backend & Data** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&labelColor=5FA04E&color=5FA04E&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&labelColor=009688&color=009688&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&labelColor=DD2C00&color=DD2C00&logoColor=222222) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&labelColor=3ECF8E&color=3ECF8E&logoColor=222222) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&labelColor=4169E1&color=4169E1&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&labelColor=003B57&color=003B57&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&labelColor=4479A1&color=4479A1&logoColor=white) |
-| **Tools & Practices** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&labelColor=F05032&color=F05032&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&labelColor=181717&color=181717&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-5267A0?style=flat&labelColor=5267A0&color=5267A0&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-7952B3?style=flat&labelColor=7952B3&color=7952B3&logoColor=white) ![AI integration](https://img.shields.io/badge/AI_integration-8B5CF6?style=flat&labelColor=8B5CF6&color=8B5CF6&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&labelColor=24213C&color=F7DF1E&logoColor=white&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&labelColor=24213C&color=3178C6&logoColor=white&logo=typescript) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&labelColor=24213C&color=3776AB&logoColor=white&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&labelColor=24213C&color=ED8B00&logoColor=white&logo=openjdk) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&labelColor=24213C&color=0175C2&logoColor=white&logo=dart) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&labelColor=24213C&color=E34F26&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&labelColor=24213C&color=1572B6&logoColor=white&logo=css) |
+| **Applications** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&labelColor=24213C&color=61DAFB&logoColor=white&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=24213C&color=000000&logoColor=white&logo=nextdotjs) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&labelColor=24213C&color=646CFF&logoColor=white&logo=vite) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&labelColor=24213C&color=02569B&logoColor=white&logo=flutter) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&labelColor=24213C&color=06B6D4&logoColor=white&logo=tailwindcss) |
+| **Backend & Data** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&labelColor=24213C&color=5FA04E&logoColor=white&logo=nodedotjs) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&labelColor=24213C&color=009688&logoColor=white&logo=fastapi) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&labelColor=24213C&color=DD2C00&logoColor=white&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&labelColor=24213C&color=3ECF8E&logoColor=white&logo=supabase) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&labelColor=24213C&color=4169E1&logoColor=white&logo=postgresql) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&labelColor=24213C&color=003B57&logoColor=white&logo=sqlite) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&labelColor=24213C&color=4479A1&logoColor=white&logo=mysql) |
+| **Tools & Practices** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&labelColor=24213C&color=F05032&logoColor=white&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&labelColor=24213C&color=181717&logoColor=white&logo=github) ![REST APIs](https://img.shields.io/badge/REST_APIs-5267A0?style=flat&labelColor=5267A0&color=5267A0&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-7952B3?style=flat&labelColor=7952B3&color=7952B3&logoColor=white) ![AI integration](https://img.shields.io/badge/AI_integration-8B5CF6?style=flat&labelColor=8B5CF6&color=8B5CF6&logoColor=white) |
 
 ---
 
@@ -146,7 +148,26 @@ Mình tiếp tục củng cố nền tảng kỹ thuật phần mềm, tìm hi�
 
 ---
 
-## 07 / Connect & Collaborate
+## 07 / Contribution Streak
+
+<div align="center">
+
+A snapshot of consistency and learning through code. Contributions are only one part of the engineering journey.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CMTran2005&background=14162B&border=302A73&stroke=302A73&ring=5348CA&fire=CA48C8&currStreakNum=FFFFFF&sideNums=E5E3FF&currStreakLabel=CA48C8&sideLabels=AFA9E7&dates=AFA9E7&hide_border=false&border_radius=8&disable_animations=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
+
+<details>
+<summary>Tiếng Việt — Hoạt động đóng góp</summary>
+
+Thống kê chuỗi ngày đóng góp trên GitHub, thể hiện một phần quá trình học tập và xây dựng phần mềm. Các con số không phản ánh toàn bộ chất lượng công việc.
+
+</details>
+
+---
+
+## 08 / Connect & Collaborate
 
 <div align="center">
 
